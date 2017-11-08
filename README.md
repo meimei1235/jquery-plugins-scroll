@@ -1,10 +1,10 @@
 # jquery-plugins-scroll
 ## 本插件是一个jquery插件，用来实现图片或文字的自动滚动。
 ## 使用方法：
-···
+``
 $("#scroll2").myMarquee( { direction: "right" }
-···
-### 其中，参数可以设置以下内容
+``
+其中，参数可以设置以下内容
         loop: 0,   循环次数 
         direction: "left",  滚动方向
         scrollAmount: 1,  步长
